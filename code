@@ -1,3 +1,4 @@
 !#/bin/bash
 date
 ls -la
+df -h
