@@ -1,2 +1,2 @@
 !/bin/bash
-echo "Feature branch commit"
+echo "Feature branch commit here"
